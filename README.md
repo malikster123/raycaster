@@ -1,2 +1,2 @@
 # raycaster
-a simple demo of a raycaster engine i made
+A raycaster engine i created using C++ and openGL
